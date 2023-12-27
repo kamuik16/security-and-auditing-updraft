@@ -1,10 +1,18 @@
 # Foundry Commands used in the Security and Auditing Course by Updraft
 
-Welcome to the **Security and Auditing Commands File**. This document serves as a comprehensive guide for various commands used in Security and Auditing Course that can make your work in security and auditing more efficient and effective.
+Welcome to the **Security and Auditing Section Wise Commands List**. This document serves as a comprehensive guide for various commands used in Security and Auditing Course that can make your work in security and auditing more efficient and effective.
+
+<details>
+<summary>Section 3</summary>
 
 | Command                                               | Description                                                        |
 | ----------------------------------------------------- | ------------------------------------------------------------------ |
 | `cast storage ADDRESS STORAGE_SLOT --rpc-url RPC_URL` | Gets on chain data for a specific storage slot of a smart contract |
+| `cast parse-bytes32-string BYTES32`                   | Casts bytes32 into string                                          |
+
+---
+
+</details>
 
 ### Contribution Guidelines
 
