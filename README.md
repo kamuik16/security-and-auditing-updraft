@@ -1,1 +1,1 @@
-# security-and-auditing-updraft
+# Repository for Security and Auditing Course by Updraft
